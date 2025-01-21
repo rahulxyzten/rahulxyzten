@@ -1,3 +1,4 @@
+
 <samp>
   
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6anBndmYxMXRycjRtaHNkbmlsMTlwazhmdG5waDB4MGo2bXBzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YjvlYIMRDcYM/giphy.gif" width="70px" /> Hello!
@@ -14,7 +15,10 @@
     <a href="https://rahulbehera.vercel.app/">
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel"/>
     </a>
+   
 </p>
+
+</samp>
 
 <br><br>
   
@@ -64,5 +68,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-657euzk/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)](https://github.com/rahulxyzten)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beherarahul101@gmail.com)
-
- </samp>
