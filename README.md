@@ -1,11 +1,12 @@
+<a id="readme-top"></a>
 
 <samp>
   
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6anBndmYxMXRycjRtaHNkbmlsMTlwazhmdG5waDB4MGo2bXBzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YjvlYIMRDcYM/giphy.gif" width="70px" /> Hello!
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW54eG05eDNzMnV3eWFqeTB2MDFrNnNrOXN3Zmkxb2VhNXp1bWI2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/giphy.gif" width="40%" align="right">
-  <br>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW54eG05eDNzMnV3eWFqeTB2MDFrNnNrOXN3Zmkxb2VhNXp1bWI2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/giphy.gif" width="40%" align="right">
+    <br>
     I'm Rahul Behera 👋
     <br><br>
     A passionate web developer from India.
@@ -15,7 +16,6 @@
     <a href="https://rahulbehera.vercel.app/">
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel"/>
     </a>
-   
 </p>
 
 </samp>
@@ -63,8 +63,22 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=netlify)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code)
 
-### 📫 Let's Connect:
+### ⚙️ GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-657euzk/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)](https://github.com/rahulxyzten)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beherarahul101@gmail.com)
+<p align="center">
+ <a href="https://github.com/rahulxyzten">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulxyzten&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahulxyzten's Github Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxyzten&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahulxyzten's Github Stats"/>
+ </a>
+</p>
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+&nbsp; <a href="https://rahulbehera.vercel.app/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/domain.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/rahul.ten/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/rahul-657euzk/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:beherarahul101@gmail.com" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+<p align="right"><a href="#readme-top"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlqaTlkN2t2ODlpNXN5azJhNDNlejBndGt2OG5iNDc5bjJscG5vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4yVEH5q9vV2FGwVHT/giphy.gif" width="70"/></a></p>
