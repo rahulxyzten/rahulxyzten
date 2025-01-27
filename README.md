@@ -65,12 +65,12 @@
 
 ### ⚙️ GitHub Analytics
 
-<p align="center">
- <a href="https://github.com/rahulxyzten">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulxyzten&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahulxyzten's Github Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxyzten&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahulxyzten's Github Stats"/>
- </a>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulxyzten&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahulxyzten's Github Stats" />     </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxyzten&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rahulxyzten's Github Stats" /></td>
+  </tr>
+</table>
 
 ### 🤝🏻 Connect with Me
 
@@ -81,4 +81,5 @@
 &nbsp; <a href="mailto:beherarahul101@gmail.com" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+<br>
 <p align="right"><a href="#readme-top"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlqaTlkN2t2ODlpNXN5azJhNDNlejBndGt2OG5iNDc5bjJscG5vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4yVEH5q9vV2FGwVHT/giphy.gif" width="70"/></a></p>
