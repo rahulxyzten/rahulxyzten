@@ -24,7 +24,7 @@
   
 ### 👨‍💻 About Me:
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering**.
+- 🎓 Graduated with **B.Tech in Computer Science and Engineering (CSE ’25 @GIETU)**.
 - ✨ Passionate about building **scalable** and **user-friendly web applications**.
 - 💡 Exploring **backend development** with **Go** and enhancing skills in **DSA** and **full-stack development**.
 - ❤️ Love to **think, learn,** and **code**. 
