@@ -9,7 +9,7 @@
     <br>
     I'm Rahul Behera 👋
     <br><br>
-    A passionate web developer from India.
+    A passionate Software Engineer from India.
     <br><br>
     Explore my portfolio:
     <br>
@@ -59,9 +59,9 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=netlify)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code)
 
 ### ⚙️ GitHub Analytics
 
