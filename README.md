@@ -24,12 +24,13 @@
   
 ### 👨‍💻 About Me:
 
+- 💼 Currently working as a **Software Engineer at IBM India**.
 - 🎓 Graduated with **B.Tech in Computer Science and Engineering (CSE ’25 @GIETU)**.
 - ✨ Passionate about building **scalable** and **user-friendly web applications**.
-- 💡 Exploring **backend development** with **Go** and enhancing skills in **DSA** and **full-stack development**.
+- 💡 Exploring **backend development** and enhancing skills in **DSA** and **full-stack development**.
 - ❤️ Love to **think, learn,** and **code**. 
 - 💬 Enjoy discussing **latest technologies**, **cricket**, and **football** (Visca el Barça 🔴🔵).
-- ☕ I firmly believe that a perfect **cup of coffee** can solve any stress.
+- ☕ I truly believe that a perfect **cup of coffee** can solve any stress.
 
 ### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
